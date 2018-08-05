@@ -1,4 +1,4 @@
-# Notas - Markdawn :octocat:
+# Notas - Markdawn
 # h1
 ## h2
 ### h3
@@ -6,13 +6,9 @@
 ##### h5
 
 Github es una **plataforma** creada _para_ facilitar el *desarrollo* colaborativo de software.
-> mlauman
+> mlauman :octocat:
 
 1. item
-2. item
-3. item
-  * subitem
-  * subitem
   * subitem
   
   **Insertamos imagen**
