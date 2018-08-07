@@ -1,0 +1,3 @@
+Titulo: Batman
+Personaje : Batman
+Pelicula: Batman regresa.
